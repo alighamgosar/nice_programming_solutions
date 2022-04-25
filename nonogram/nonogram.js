@@ -1,0 +1,1 @@
+let nonogramrow=a=>a.join('').split(0).filter(s=>s).map(s=>s.length)
