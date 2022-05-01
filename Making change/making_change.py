@@ -1,0 +1,1 @@
+change = lambda n: sum(r for v in [n] for m in [500, 100, 25, 10, 5, 1] for r, v in [divmod(v, m)])
