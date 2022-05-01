@@ -1,1 +1,1 @@
-**Neat and nice solutions for programming challenges**
+**neat and one-liner codes as solutions for programming challenges**
